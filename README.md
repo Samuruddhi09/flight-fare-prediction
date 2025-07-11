@@ -31,8 +31,8 @@ Predict flight ticket prices using machine learning techniques based on various 
   - Matplotlib, Seaborn
   - Pickle
 ## App Screenshot
-<img width="922" height="849" alt="Image" src="https://github.com/user-attachments/assets/65d05cac-1ee1-48ff-a8ba-5055d72fd97b" />
-<img width="910" height="720" alt="Image" src="https://github.com/user-attachments/assets/71a4fe61-5e1f-41f5-800c-fb589c122fa4" />
+<img width="922" height="849" alt="Image" src="https://github.com/user-attachments/assets/65d05cac-1ee1-48ff-a8ba-5055d72fd97b" /> <img width="910" height="720" alt="Image" src="https://github.com/user-attachments/assets/71a4fe61-5e1f-41f5-800c-fb589c122fa4" />
+
 
 
 
